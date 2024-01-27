@@ -15,4 +15,7 @@ body{
     flex-direction: column;
     height: 100vh;
 }
-dk 6.56
+.container{
+    background-color: #fff;
+    border-radius: 30px;
+}
