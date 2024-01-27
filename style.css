@@ -35,5 +35,12 @@ body{
     font-size: 12px;
 }
 .container a{
-    color: #ccc;
+    color: #333;
+    font-size: 13px;
+    text-decoration: none;
+    margin: 15px 0 15px;
+}
+.container button{
+    background-color: #512da8;
+    
 }
