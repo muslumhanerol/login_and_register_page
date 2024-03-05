@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif ;
+    font-family:'roboto';
 }
 body{
     background-color: #c9d6ff;
@@ -40,10 +40,10 @@ body{
     margin: 15px 0 10px;
 }
 .container a:hover{
-    background:#5c6bc0;
+    background:#2da8dd;
 }
 .container button{
-    background-color: #512da8;
+    background-color: #2da8dd;
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
@@ -143,9 +143,9 @@ body{
     border-radius: 0 150px 100px 0;
 }
 .toggle{
-    background-color: #512da8;
+    background-color: #2da8dd;
     height: 100%;
-    background: linear-gradient(to right, #5c6bc0, #512da8);
+    background: linear-gradient(to right,#2da8dd, #e0d1af);
     color: #fff;
     position: relative;
     left: -100%;
