@@ -2,6 +2,6 @@
 
 https://login-and-register-page-flame.vercel.app/ 
 
-![Login And Register Page - Profil 1 - Microsoft​ Edge 7 03 2024 01_03_02](https://github.com/muslumhanerol/login_and_register_page/assets/132482365/8bccb4ed-8b1a-4690-941d-6fbbf65a1cc9)
+![Login And Register Page - 1](https://github.com/muslumhanerol/login_and_register_page/assets/132482365/34e17544-ac25-485b-93c1-8f232c8cf401)
 
-![Login And Register Page - Profil 1 - Microsoft​ Edge 7 03 2024 01_03_12](https://github.com/muslumhanerol/login_and_register_page/assets/132482365/71cbdd1f-58d7-4441-bb25-5badfee7c6f7)
+![Login And Register Page - 2](https://github.com/muslumhanerol/login_and_register_page/assets/132482365/1ad59be8-04cd-4b3e-badf-9f93ae0f5af8)
